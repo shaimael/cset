@@ -14,10 +14,10 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/build-webpack": "^0.13.8",
+    "@angular-devkit/build-webpack": "0.1201.1",
     "@angular/animations": "^7.2.3",
     "@angular/cdk": "^6.4.7",
-    "@angular/cli": "^7.3.8",
+    "@angular/cli": "7.3.10",
     "@angular/common": "^7.1.0",
     "@angular/compiler": "^7.1.0",
     "@angular/core": "^7.1.0",
@@ -76,7 +76,7 @@
     "snyk": "^1.278.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.13.8",
+    "@angular-devkit/build-angular": "0.1102.14",
     "@angular/compiler-cli": "^7.2.13",
     "@angular/language-service": "^7.1.0",
     "@fortawesome/fontawesome-free": "^5.9.0",
